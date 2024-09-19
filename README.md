@@ -1,4 +1,4 @@
-# Demo Repository for Generative AI and Repository Insights
+# Detailed Demo Repository for Generative AI and Repository Insights
 
 This repository is created to demonstrate the concept of **Generative AI for Real-Time Repository Insights**. It will showcase how AI can be applied to GitHub repositories to generate useful insights from commit data.
 
